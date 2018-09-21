@@ -1,1 +1,1 @@
-module iotestgo11module
+module github.com/mytestschool/iotestgo11module/iotestgo11module
